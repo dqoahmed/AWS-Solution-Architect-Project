@@ -11,3 +11,5 @@ one of the most important things to set up after creating the root account user 
 # Creating a budget for the account 
 next, iahev created a budget templane and chose abudget catagory allowing to set limits and receive email alerts when approav=ching or exceeding budget limits.
 ![image](https://github.com/dqoahmed/AWS-Solution-Architect-Project/assets/156861134/70c62eec-c960-4226-ab1a-1c76c326500d)
+![image](https://github.com/dqoahmed/AWS-Solution-Architect-Project/assets/156861134/193d054a-176f-4908-95e6-53228ec4b176)
+
