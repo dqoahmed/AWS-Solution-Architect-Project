@@ -13,3 +13,7 @@ Next, I have created a budget template and chose  abudget catagory allowing to s
 ![image](https://github.com/dqoahmed/AWS-Solution-Architect-Project/assets/156861134/70c62eec-c960-4226-ab1a-1c76c326500d)
 ![image](https://github.com/dqoahmed/AWS-Solution-Architect-Project/assets/156861134/193d054a-176f-4908-95e6-53228ec4b176)
 
+# Identity and Access Management (IAM)
+Identity and Access Management (IAM) serves as a fundamental AWS service essential for Solutions Architects.
+IAM facilitates the creation of additional identities within an AWS account, allowing for the assignment of restricted access levels. Initially, IAM identities have no permissions within an AWS Account, but they can be granted permissions that closely align with those of the Account Root User.
+![image](https://github.com/dqoahmed/AWS-Solution-Architect-Project/assets/156861134/00a2a54e-475d-4f75-8ab8-14119c70678b)
